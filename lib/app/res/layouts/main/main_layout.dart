@@ -1,7 +1,7 @@
 // views/main_layout.dart
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:resume/app/controllers/network_controller.dart';
+import 'package:whatsapp/app/controllers/network_controller.dart';
 import '../../../controllers/main_controller.dart';
 
 class MainLayout extends GetView<MainController> {

@@ -1,4 +1,4 @@
-package com.example.resume
+package com.whatsapp
 
 import io.flutter.embedding.android.FlutterActivity
 

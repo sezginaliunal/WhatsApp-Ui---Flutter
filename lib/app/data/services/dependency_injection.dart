@@ -1,4 +1,4 @@
-import 'package:resume/app/controllers/home_controller.dart';
+import 'package:whatsapp/app/controllers/home_controller.dart';
 
 import '../../controllers/navigation_controller.dart';
 import '../../controllers/main_controller.dart';

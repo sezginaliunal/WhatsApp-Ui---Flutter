@@ -1,10 +1,12 @@
-enum ImageItems { qiblah }
+enum ImageItems { logo, group }
 
 extension ImageItemsExtension on ImageItems {
   String _path() {
     switch (this) {
-      case ImageItems.qiblah:
-        return 'qibla';
+      case ImageItems.logo:
+        return 'logo';
+      case ImageItems.group:
+        return 'group';
     }
   }
 

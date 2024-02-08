@@ -15,11 +15,11 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await DependecyInjection.init();
 
-  runApp(const MyApp());
+  runApp(const Resume());
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({Key? key}) : super(key: key);
+class Resume extends StatelessWidget {
+  const Resume({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -29,7 +29,6 @@ class MyApp extends StatelessWidget {
           title: AppStrings.appName,
           debugShowCheckedModeBanner: false,
           theme: Themes().lightTheme,
-          darkTheme: Themes().darkTheme,
           themeMode: ThemeService.instance.themeMode,
           translations: Translation(),
           locale: const Locale('en'),
