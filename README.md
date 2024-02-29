@@ -1,4 +1,4 @@
-<img src="https://github.com/sezginaliunal/Flutter-Music-App/assets/112806549/3de68cc1-f0a2-4ac0-895d-1d4b58666849](https://github.com/sezginaliunal/WhatsApp-Ui---Flutter/assets/112806549/87d604a7-930d-48db-97ed-e29170b39334" width="250">
-<img src="https://github.com/sezginaliunal/WhatsApp-Ui---Flutter/assets/112806549/0bebac44-d6e7-4edd-9683-3f9f2130ecce" width="250">
-<img src="[https://github.com/sezginaliunal/Flutter-Music-App/assets/112806549/cdd9f42d-40da-499a-8100-fe7b67f19dac](https://github.com/sezginaliunal/WhatsApp-Ui---Flutter/assets/112806549/b1f2ccc8-7095-4318-92db-dc37de805762)" width="250">
-<img src="[https://github.com/sezginaliunal/Flutter-Music-App/assets/112806549/8be94ae3-be38-4286-a559-f7bd40172921](https://github.com/sezginaliunal/WhatsApp-Ui---Flutter/assets/112806549/6efd26ba-4a3d-4f5f-9396-e89352fd4a31)https://github.com/sezginaliunal/WhatsApp-Ui---Flutter/assets/112806549/6efd26ba-4a3d-4f5f-9396-e89352fd4a31" width="250">
+![flutter_01](https://github.com/sezginaliunal/WhatsApp-Ui---Flutter/assets/112806549/8360acad-0d91-4947-908f-dce417a68ac2)
+![flutter_02](https://github.com/sezginaliunal/WhatsApp-Ui---Flutter/assets/112806549/3064d3b4-3781-43ae-9bce-7077ff0c57d9)
+![flutter_03](https://github.com/sezginaliunal/WhatsApp-Ui---Flutter/assets/112806549/03d0dd09-f70c-467e-859c-2aebcc399510)
+![flutter_04](https://github.com/sezginaliunal/WhatsApp-Ui---Flutter/assets/112806549/0abc2b2e-2bc4-45da-b6b8-8c9a460ad927)
